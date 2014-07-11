@@ -1,0 +1,117 @@
+/*!
+ * Bootstrap v3.x Responsive Helpers (https://github.com/KieranDotCo/bootstrap3-responsive-helpers)
+ * Copyright KieranDotCo.
+ * Licensed under MIT (https://github.com/KieranDotCo/bootstrap3-responsive-helpers/blob/master/license-mit.txt)
+ */
+ 
+ @media(max-width:768px) {
+    .pull-left-xs {
+        float: right;
+    }
+
+    .pull-right-xs {
+        float: right;
+    }
+
+    .center-block-xs {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+    .text-left-xs {
+        text-align: left;
+    }
+
+    .text-center-xs {
+        text-align: center;
+    }
+
+    .text-right-xs {
+        text-align: right;
+    }
+}
+
+@media(min-width:768px) and (max-width:992px) {
+    .pull-left-sm {
+        float: right;
+    }
+
+    .pull-right-sm {
+        float: right;
+    }
+
+    .center-block-sm {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+    .text-left-sm {
+        text-align: left;
+    }
+
+    .text-center-sm {
+        text-align: center;
+    }
+
+    .text-right-sm {
+        text-align: right;
+    }
+}
+
+@media (min-width: 992px) and (max-width:1200px) {
+    .pull-left-md {
+        float: right;
+    }
+
+    .pull-right-md {
+        float: right;
+    }
+
+    .center-block-md {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+    .text-left-md {
+        text-align: left;
+    }
+
+    .text-center-md {
+        text-align: center;
+    }
+
+    .text-right-md {
+        text-align: right;
+    }
+}
+
+@media (min-width: 1200px) {
+    .pull-left-lg {
+        float: right;
+    }
+
+    .pull-right-lg {
+        float: right;
+    }
+
+    .center-block-lg {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+    .text-left-lg {
+        text-align: left;
+    }
+
+    .text-center-lg {
+        text-align: center;
+    }
+
+    .text-right-lg {
+        text-align: right;
+    }
+}
